@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi 🙌🏻
 
-# leehayeong
-hi.
-
-## 🔨 I've used 🔨
+## 🌱 I’m currently learning ... 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
       <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -31,7 +28,7 @@ hi.
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
     </div>
     
-
+<!--
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:haileyeong@gmail.com">
@@ -42,7 +39,7 @@ hi.
         <img src="https://img.shields.io/badge/
         Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-
+-->
 
 
 <!--
