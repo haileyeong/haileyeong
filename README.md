@@ -1,67 +1,49 @@
-### Hello  🙌🏻
+# 🙋🏻 문제 해결 과정의 즐거움을 아는 개발자
 
-## ⚒️ Once I've used ... 🛠️
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-      <!-- Frontend -->
-    <div>
-     <p><strong>Frontend</strong></p>
-        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    </div>
+안녕하세요. 백엔드 개발자 이하영입니다. 주로 복잡한 문제를 분석하고, 창의적인 해결책을 제시하여, <br>
+실제 동작하는 시스템을 만들어내는 과정에서 깊은 재미와 성취감을 얻습니다. 
 
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-              <!-- Backend -->
-    <div>
-    <p><strong>Backend</strong></p>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-              <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-          <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    </div>
-    <!-- Database -->
-    <div>
-     <p><strong>Database</strong></p>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>
-    <!-- Server -->
-    <div>
-     <p><strong>Server</strong></p>
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    </div>
-    <div>
-     <p><strong>Other</strong></p>
-        <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-        <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-        <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
-        <img src="https://img.shields.io/badge/asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white">
-        <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">       
-    </div>        
+<br>
 
+## 🚀 진행 중인 프로젝트
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:haileyeong@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://www.instagram.com/ha0.jjang">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
-</div>
+- **(가칭) CleanMap**  
+  ∙ 공공 데이터를 활용해 휴지통을 찾아 지도에 실시간으로 표시하는 서비스  
+  ∙ 디자이너, 기획자, 개발자가 함께 진행하는 프로젝트
 
-<!--
-**haileyeong/haileyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **MeetStudy** ([http://34.47.79.59](http://34.47.79.59))  
+  ∙ 리팩토링  
+  ∙ 다양한 주제의 스터디를 쉽게 생성하고 참여하며 정보를 공유하는 서비스  
+  ∙ BE 6명, FE 2명이 참여한 팀 프로젝트
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 기술 스택
+
+- **Backend**: 
+  - Java
+  - Spring Boot, Spring MVC, Spring Security, Spring Data JPA
+  - JPA, Hibernate
+  - Junit 5, Mockito
+  - Gradle, Maven
+
+- **DevOps**: 
+  - MySQL, Oracle
+  - Google Cloud Platform (GCP)
+
+- **Frontend**: 
+  - JavaScript, React
+
+<br>
+
+## 📫 연락처
+
+- 이메일: [haileyeong@gmail.com](mailto:haileyeong@gmail.com)
+
+<br>
+
+## 🌱 학습 중인 내용
+
+- 이전에 진행했던 프로젝트를 리팩토링하여 서비스의 고도화를 진행하고 있습니다. <br>특히, 올바른 방식으로 Spring Security를 사용하고 테스트 코드 작성으로 것으로 기대하고 있습니다.
+
+- 이전에 진행했던 프로젝트를 리팩토링하여 서비스의 고도화를 진행하고 있습니다. <br>특히, Spring Security를 올바르게 사용하고 테스트를 수행하는 방법을 더 잘 이해하고 <br>적용할 수 있을 것으로 기대하고 있습니다.
