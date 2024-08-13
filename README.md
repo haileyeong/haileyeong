@@ -1,7 +1,6 @@
 # 🙋🏻 문제 해결 과정의 즐거움을 아는 개발자
 
-안녕하세요. 백엔드 개발자 이하영입니다. 주로 복잡한 문제를 분석하고, 창의적인 해결책을 제시하여, <br>
-실제 동작하는 시스템을 만들어내는 과정에서 깊은 재미와 성취감을 얻습니다. 
+안녕하세요! 웹 애플리케이션 개발과 새로운 기술 학습을 좋아하는 이하영입니다.
 
 <br>
 
@@ -20,19 +19,19 @@
 
 ## 🛠️ 기술 스택
 
-- **Backend**: 
-  - Java
-  - Spring Boot, Spring MVC, Spring Security, Spring Data JPA
-  - JPA, Hibernate
-  - Junit 5, Mockito
-  - Gradle, Maven
+- **Backend**: <br>
+ ∙ Java<br>
+ ∙ Spring Boot, Spring MVC, Spring Security, Spring Data JPA<br>
+ ∙ JPA, Hibernate<br>
+ ∙ Junit 5, Mockito<br>
+ ∙ Gradle, Maven<br>
 
-- **DevOps**: 
-  - MySQL, Oracle
-  - Google Cloud Platform (GCP)
+- **DevOps**: <br>
+ ∙ MySQL, Oracle<br>
+ ∙ Google Cloud Platform (GCP)<br>
 
-- **Frontend**: 
-  - JavaScript, React
+- **Frontend**: <br>
+ ∙ JavaScript, React<br>
 
 <br>
 
